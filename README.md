@@ -35,11 +35,11 @@ Before you begin, ensure you have the following installed on your system:
 
 ## Project Structure
 
-├── kubernetes-setup/
-│ ├── master-playbook.yml # Ansible playbook for master node setup
-│ └── [other configuration files]
-├── Vagrantfile # Vagrant configuration
-└── README.md
+├── kubernetes-setup/  
+│ ├── master-playbook.yml # Ansible playbook for master node setup  
+│ └── [other configuration files]  
+├── Vagrantfile # Vagrant configuration  
+└── README.md  
 
 
 ## What Gets Installed
